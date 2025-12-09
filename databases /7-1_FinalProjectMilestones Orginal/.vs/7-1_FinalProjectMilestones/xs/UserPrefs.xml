@@ -1,0 +1,28 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Source/MainCode.cpp">
+    <Files>
+      <File FileName="Source/MainCode.cpp" Line="1" Column="1" />
+      <File FileName="Source/SceneManager.h" Line="1" Column="1" />
+      <File FileName="Source/ViewManager.cpp" Line="1" Column="1" />
+      <File FileName="Source/SceneManager.cpp" Line="11" Column="1" />
+      <File FileName="Source/ViewManager.h" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="7-1_FinalProjectMilestones" expanded="True">
+            <Node name="7-1_FinalProjectMilestones" expanded="True" selected="True">
+              <Node name="Source" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
