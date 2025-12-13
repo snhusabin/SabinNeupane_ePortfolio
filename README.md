@@ -1,4 +1,3 @@
-<img width="1280" height="2742" alt="image" src="https://github.com/user-attachments/assets/4604ba63-2f95-48b4-b755-3b4873b4a1d2" />
 
-
+<img width="468" height="635" alt="image" src="https://github.com/user-attachments/assets/19386df7-0ffe-4575-8dff-e6f61d1f938a" />
 Youtube video link: https://www.youtube.com/watch?v=5MLtz-da9N4
